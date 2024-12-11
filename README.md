@@ -1,4 +1,4 @@
-# Robin Blog Test
+# Robin Posts Test
 
 ## Objective
 Create a simple blog application using Next.js and React, following the instructions below. The application should display a list of posts retrieved from the `/api/posts` API, along with detail pages for each post.
